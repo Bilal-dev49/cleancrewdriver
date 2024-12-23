@@ -1,0 +1,59 @@
+{
+    "bookings": [
+      {
+        "title": "Clean Sweep",
+        "type": "Standard cleaners",
+        "date": "Wednesday 17 Sep, 2024",
+        "status": "Completed",
+        "image": "assets/cleansweap.png",
+        "details": {
+        "service_type": "Standard cleaning",
+        "date": "2024-08-15",
+        "time": "1:00 am - 3:00 am (1hr)",
+        "special_instructions": "Please use non-scented products.",
+        "product_preference": "Non-scented Products",
+        "allergies": "Ammonia, Bleach, Formaldehyde",
+        "total_charges": "$8.00",
+        "payment_method": "Visa card",
+        "time_remaining": "26:01:23"
+      }
+      },
+      {
+        "title": "Clean Sweep",
+        "type": "Standard cleaners",
+        "date": "Wednesday 17 Sep, 2024",
+        "status": "Upcoming",
+        "image": "assets/cleansweap.png",
+        "details": {
+        "service_type": "Standard cleaning",
+        "date": "2024-08-15",
+        "time": "1:00 am - 3:00 am (1hr)",
+        "special_instructions": "Please use non-scented products.",
+        "product_preference": "Non-scented Products",
+        "allergies": "Ammonia, Bleach, Formaldehyde",
+        "total_charges": "$8.00",
+        "payment_method": "Visa card",
+        "time_remaining": "26:01:23"
+      }
+      },
+      {
+        "title": "Clean Sweep",
+        "type": "Standard cleaners",
+        "date": "Wednesday 17 Sep, 2024",
+        "status": "Canceled",
+        "image": "assets/cleansweap.png",
+        "details": {
+        "service_type": "Standard cleaning",
+        "date": "2024-08-15",
+        "time": "1:00 am - 3:00 am (1hr)",
+        "special_instructions": "Please use non-scented products.",
+        "product_preference": "Non-scented Products",
+        "allergies": "Ammonia, Bleach, Formaldehyde",
+        "total_charges": "$8.00",
+        "payment_method": "Visa card",
+        "time_remaining": "26:01:23"
+      }
+      }
+    ]
+  }
+  

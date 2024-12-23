@@ -1,0 +1,16 @@
+{
+    "bookingDetails": {
+      "serviceType": "Standard cleaning",
+      "date": "9/2/2024",
+      "selectedTime": "4:00 PM (1hr)",
+      "specialInstruction": "Yes",
+      "productPreference": "Non-scented Products",
+      "allergies": "Ammonia, Bleach, Formaldehyde"
+    },
+    "cleanerDetails": {
+      "name": "Clean sweep",
+      "date": "Standard cleaners"
+    },
+    "totalCharges": "£ 4.00"
+  }
+  

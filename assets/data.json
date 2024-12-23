@@ -1,0 +1,26 @@
+{
+    "totalEarning": 1260.00,
+    "jobStatus": {
+        "newJobs": 2,
+        "ongoingJobs": 1,
+        "completedJobs": 20
+    },
+    "newJobs": [
+        {
+            "orderId": 2345,
+            "status": "New",
+            "timeRemaining": "00:21:56",
+            "pickupTime": "Wed 17 Sep, 2024 (10:00 AM)",
+            "address": "456 Oak Avenue, Springfield (5km)",
+            "earning": 12.00
+        },
+        {
+            "orderId": 2346,
+            "status": "New",
+            "timeRemaining": "00:20:00",
+            "pickupTime": "Wed 17 Sep, 2024 (10:30 AM)",
+            "address": "123 Elm Street, Springfield (3km)",
+            "earning": 15.00
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "bookings": [
+        {
+            "booking_details": {
+                "date": "Wed 17 Sep, 2024",
+                "time": "10:00 AM - 12:00 PM"
+            },
+            "client_details": {
+                "name": "Sydney Hopper",
+                "address": "456 Oak Avenue, Springfield"
+            },
+            "status": "Upcoming",
+            "additional_details": {
+                "special_instructions": "Yes",
+                "product_preference": "Non-scented Products",
+                "laundry": "Collected",
+                "payment": "$4.00/hr (Through Visa card)"
+            }
+        },
+        {
+            "booking_details": {
+                "date": "Thu 18 Sep, 2024",
+                "time": "1:00 PM - 3:00 PM"
+            },
+            "client_details": {
+                "name": "John Doe",
+                "address": "789 Maple Road, Springfield"
+            },
+            "status": "Completed",
+            "additional_details": {
+                "special_instructions": "No",
+                "product_preference": "Scented Products",
+                "laundry": "Not collected",
+                "payment": "$5.00/hr (Through MasterCard)"
+            }
+        }
+    ]
+}

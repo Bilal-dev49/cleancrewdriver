@@ -1,0 +1,19 @@
+{
+    "orderId": 2345,
+    "status": "New",
+    "timeRemaining": "00:21:56",
+    "assignDate": "9/2/2024",
+    "pickupDate": "9/2/2024",
+    "pickupTime": "10:00 AM",
+    "location": "456 Oak Avenue, Springfield",
+    "distance": "5km - from current location",
+    "instructions": "Leave at front door, call upon arrival",
+    "earning": 12.00,
+    "client": {
+        "name": "Sydney Hopper",
+        "email": "sydney@gmail.com",
+        "phone": "055-34567890",
+        "address": "456 Oak Avenue, Springfield",
+        "profileImage": "assets/DP.png"
+    }
+}

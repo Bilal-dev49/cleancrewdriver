@@ -1,0 +1,43 @@
+[
+    {
+      "title": "Clean Sweep",
+      "category": "Standard cleaners",
+      "price": "£ 4.00 (per hour)",
+      "rating": 4.8,
+      "reviews": 87,
+      "imageUrl": "assets/cleansweap.png"
+    },
+    {
+      "title": "Shiny Sink",
+      "category": "Kitchen cleaners",
+      "price": "£ 4.00 (per hour)",
+      "rating": 4.9,
+      "reviews": 120,
+      "imageUrl": "assets/shinysink.png"
+    },
+    {
+      "title": "Spot Less",
+      "category": "Deep cleaners",
+      "price": "£ 4.00 (per hour)",
+      "rating": 4.7,
+      "reviews": 65,
+      "imageUrl": "assets/spotless.png"
+    },
+    {
+      "title": "Shiny Sink",
+      "category": "Kitchen cleaners",
+      "price": "£ 4.00 (per hour)",
+      "rating": 4.9,
+      "reviews": 120,
+      "imageUrl": "assets/shinysink.png"
+    },
+    {
+      "title": "Clean Sweep",
+      "category": "Standard cleaners",
+      "price": "£ 4.00 (per hour)",
+      "rating": 4.8,
+      "reviews": 87,
+      "imageUrl": "assets/cleansweap.png"
+    }
+  ]
+  

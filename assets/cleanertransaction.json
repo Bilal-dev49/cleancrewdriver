@@ -1,0 +1,38 @@
+[
+    {
+        "paymentMethod": "Visa card",
+        "date": "8/15/2024",
+        "amount": "$8.00",
+        "status": "Completed"
+    },
+    {
+        "paymentMethod": "Mastercard",
+        "date": "8/16/2024",
+        "amount": "$15.00",
+        "status": "Pending"
+    },
+    {
+        "paymentMethod": "Apple Pay",
+        "date": "8/17/2024",
+        "amount": "$25.00",
+        "status": "Completed"
+    },
+    {
+        "paymentMethod": "Visa card",
+        "date": "8/18/2024",
+        "amount": "$30.00",
+        "status": "Failed"
+    },
+    {
+        "paymentMethod": "Visa card",
+        "date": "8/19/2024",
+        "amount": "$40.00",
+        "status": "Completed"
+    },
+    {
+        "paymentMethod": "Mastercard",
+        "date": "8/20/2024",
+        "amount": "$50.00",
+        "status": "Completed"
+    }
+]
