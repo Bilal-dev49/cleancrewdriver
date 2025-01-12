@@ -75,14 +75,14 @@ class _DriverHomeScreenState extends State<DriverHomeScreen> {
                   children: [
                     CircleAvatar(
                       backgroundColor: Color.fromRGBO(208, 208, 208, 1),
-                      radius: 45.r,
+                      radius: 35.r,
                       child: Icon(
                         Icons.person_outline,
                         color: Colors.black,
-                        size: 50.sp,
+                        size: 40.sp,
                       ),
                     ),
-                    SizedBox(height: 10.h),
+                    SizedBox(height: 15.h),
                     Text(
                       'Adeline Bowman',
                       style: TextStyle(
@@ -91,7 +91,7 @@ class _DriverHomeScreenState extends State<DriverHomeScreen> {
                           fontWeight: FontWeight.w700,
                           fontFamily: "Mulish"),
                     ),
-                    SizedBox(height: 5.h),
+                    SizedBox(height: 7.h),
                     Text(
                       'adebowman129@gmail.com',
                       style: TextStyle(
