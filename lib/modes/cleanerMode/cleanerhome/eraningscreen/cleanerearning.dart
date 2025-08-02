@@ -115,9 +115,8 @@ class _CleanerEarningState extends State<CleanerEarning> {
                               primary: Colors
                                   .black, // Header text and selected date circle color
                               onSurface: Colors.black, // Text color in calendar
-                            ),
-                            dialogBackgroundColor: Colors
-                                .white, // Background color of the date picker
+                            ), dialogTheme: DialogThemeData(backgroundColor: Colors
+                                .white), // Background color of the date picker
                           ),
                           child: child!,
                         );
